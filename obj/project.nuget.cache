@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5y75x2t2jw+jAEH4bK+zBkhWq4ca2M6Y+0Ih9eO4Y4DMbwERQp47FNuCbKSHQBHkyggHPjdhk9pBqY2v4tZMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Irene\\Desktop\\ProjetoASP.NET\\PedidosApp\\PedidosApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Irene\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Irene\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Irene\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Irene\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Irene\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Irene\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
